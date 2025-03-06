@@ -1,0 +1,14 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: B6AD-CB8E
+
+ Directory di C:\Users\jacopo\Desktop\fortran
+
+02/03/2025  17:10    <DIR>          .
+02/03/2025  15:26    <DIR>          ..
+02/03/2025  17:10                73 dir.bat
+02/03/2025  17:10                 0 dir.txt
+02/03/2025  17:10    <DIR>          DIR1
+02/03/2025  16:05    <DIR>          Fortran
+02/03/2025  17:04               190 fortran.bat
+               3 File            263 byte
+               4 Directory  41.841.516.544 byte disponibili
